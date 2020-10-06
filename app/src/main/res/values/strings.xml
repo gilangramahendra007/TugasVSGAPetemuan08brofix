@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LatihanStorage</string>
+    <string name="Lbl_Nama">| LATIHAN PERSISTENCE BAMBANK! |</string>
+    <string name="Lbl_Footer"> ZilanStudio Corp </string>
+</resources>
